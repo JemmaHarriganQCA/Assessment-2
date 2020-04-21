@@ -15,7 +15,9 @@ Blooming Paper Art
 
 https://www.haufig.com/blooming-paper-art-interactive-installation/
 
-![Image](missingimage.png)
+
+![blooming paper art](https://user-images.githubusercontent.com/62362612/79829460-7d87f400-83e6-11ea-946d-33ff0b4b9ce6.png)
+
 
 This project is related to mine because of the idea of blooming and they essentially use similiar processes, using motion to trigger a blooming flower through motors. I love the mix of beautiful art and mechanics in this project.
 
@@ -24,7 +26,7 @@ Touch me not
 
 https://www.youtube.com/watch?v=5Tt0xLZ7c-g
 
-![Image](missingimage.png)
+![Touch me not](https://user-images.githubusercontent.com/62362612/79829428-68ab6080-83e6-11ea-9a82-bec29a4f8392.png)
 
 This project is related to mine because they have a similiar idea of blooming, instead they use touch to trigger the motion, which gives it a more tactile experience.
 
@@ -33,7 +35,7 @@ Diffusion Choir
 
 https://www.youtube.com/watch?v=XnYCaprdqTY 
 
-![Image](missingimage.png)
+![diffusion choir](https://user-images.githubusercontent.com/62362612/79829439-71039b80-83e6-11ea-8279-670cde40d293.png)
 
 This project is related to mine because this project they are inspired by nature, conveying it through technology and created something beautiful as a result.
 
