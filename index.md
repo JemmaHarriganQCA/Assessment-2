@@ -11,6 +11,33 @@ When you have completed the template, submit the link to the GitHub Pages site f
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
+Blooming Paper Art
+
+https://www.haufig.com/blooming-paper-art-interactive-installation/
+
+![Image](missingimage.png)
+
+This project is related to mine because of the idea of blooming and they essentially use similiar processes, using motion to trigger a blooming flower through motors. I love the mix of beautiful art and mechanics in this project.
+
+### Related project 2 ###
+Touch me not
+
+https://www.youtube.com/watch?v=5Tt0xLZ7c-g
+
+![Image](missingimage.png)
+
+This project is related to mine because they have a similiar idea of blooming, instead they use touch to trigger the motion, which gives it a more tactile experience.
+
+### Related project 3 ###
+Diffusion Choir
+
+https://www.youtube.com/watch?v=XnYCaprdqTY 
+
+![Image](missingimage.png)
+
+This project is related to mine because this project they are inspired by nature, conveying it through technology and created something beautiful as a result.
+
+### Related project 4 ###
 *Insert name of project*
 
 *Insert URL to project*
@@ -18,6 +45,25 @@ When you have completed the template, submit the link to the GitHub Pages site f
 ![Image](missingimage.png)
 
 This project is related to mine because *insert reasons here*.
+
+### Related project 5 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 6 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
