@@ -88,7 +88,7 @@ My first design concept was to create a flower/plant that grew when a light turn
 My second design invloved a flower bed and the 3 stages of a plant growing; seeds, seedlings and flowers. Light sensors over certain areas would trigger the different stages of growth to appear from the flower bed, showing the beauty in each stage of growth. This could be done in a smaller scale to compensate for the lack of resources. 
 
 ### Final design concept ###
-My final design is to create a flower that blooms with light. It involves a light sensor recieving light which triggers a motor to push open the flower. My design would be simple and beautiful to reflect the simplicity of nature. 
+My final design is to create a flower that blooms with light. It involves a light sensor recieving light which triggers a motor to pull open the flower. My design would be simple and beautiful to reflect the simplicity of nature. 
 
 ### Interaction flowchart ###
 
