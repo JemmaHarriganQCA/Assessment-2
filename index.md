@@ -81,6 +81,8 @@ A device that conveys the beauty/simplicity of plants that makes us think how we
 
 I wanted to draw from some characteristics of plants; their slow growth, simple processes/beauty and limited elements to live.
 
+![IMG_6873](https://user-images.githubusercontent.com/62362612/79945188-a07eda80-84b0-11ea-95a3-afc1c4285755.JPG)
+
 ### Design concept 1 ###
 My first design concept was to create a flower/plant that grew when a light turned on and a watering can was moved towards it. I would create this with a light sensor catching the light going to a motor to lift the flower out of a hole. As well as a radio embedded in the watering can to lift the flower or make it spread out more. 
 
@@ -90,9 +92,13 @@ My second design invloved a flower bed and the 3 stages of a plant growing; seed
 ### Final design concept ###
 My final design is to create a flower that blooms with light. It involves a light sensor recieving light which triggers a motor to pull open the flower. My design would be simple and beautiful to reflect the simplicity of nature. 
 
+![IMG_6874](https://user-images.githubusercontent.com/62362612/79945167-94931880-84b0-11ea-8a2a-05e310222c70.JPG)
+
+![IMG_6875](https://user-images.githubusercontent.com/62362612/79945124-83e2a280-84b0-11ea-8924-952087bdd326.JPG)
+
 ### Interaction flowchart ###
 
-![Image](missingimage.png)
+![IMG_6876](https://user-images.githubusercontent.com/62362612/79945370-f2276500-84b0-11ea-8435-879060d7081a.JPG)
 
 ## Physical experimentation documentation ##
 
@@ -107,24 +113,23 @@ Making small adjustments, I figured out that the code worked through the microbi
 
 I added a moon when there wasn't any light present and a sun when there was, so I could see what was happening. 
 
-![Image](missingimage.png)
-
 By test no.6, I realised that the smallest amount of light I had for the motor to move wasn't right, it was too low. So I played around with it, as I didn't fully understand how it made a different. I found that 200 was too low, after changing it to 500, I found it was too high. 300 was the golden number, It worked with my torch on my phone as well as some bright house lights. 
 
 ![Image](missingimage.png)
 
 At this point, I was close to finally cracking the problem, I still hadn't worked out if it could work with my phototransistor yet, it was working when I made contact with pin 1 though. I connected my light sensor and played around with the positioning of the aligator clips on the pin and the microbit. I figured out that it worked when the shorter side of the pin was connected to pin 1 and the other to 0. 
+
 My circuit had finally worked and operated swiftly. The phototransistor recieved the light from my torch then successfully madde the motor move 1 sec after then stay at that angle for 10 seconds then move back to its original position.
 
-![Image](missingimage.png)
+![IMG_6868](https://user-images.githubusercontent.com/62362612/79945215-affe2380-84b0-11ea-9a17-182f2c9ecd73.JPG)
 
 My next objective was to look into the design of the flower. I found a video of someone making an origami flower, similar to a cocktail umbrella. I saw that this design could work for mine, with the motor pulling the bottom tab that pulled the petals of the flower, therefore making it bloom. 
 
-![Image](missingimage.png)
+https://www.youtube.com/watch?v=61_Bm20XjMU
 
 I then created a protoype of it to make sure I understood how it could work with my flower. 
 
-![Image](missingimage.png)
+![IMG_6867](https://user-images.githubusercontent.com/62362612/79945291-cdcb8880-84b0-11ea-9827-3a45d1ec2ba1.JPG)
 
 It worked theoretically, I just had to find a way of making it work practically, connecting the bottom tab to the servo motor. I saw a flaw with the fragility of the paper compared with the rapid movement of the motor an considered using a stronger material so it could move with the motor and withstand the force that it gave.
 
