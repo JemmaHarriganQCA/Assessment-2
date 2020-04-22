@@ -5,7 +5,7 @@ You will use this workbook to keep track of your progress through the course and
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
 ## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+Slow Growth
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
@@ -77,37 +77,67 @@ This project is related to mine because *insert reasons here*.
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+A device that conveys the beauty/simplicity of plants that makes us think how we look at plants to shape our lives.
+
+I wanted to draw from some characteristics of plants; their slow growth, simple processes/beauty and limited elements to live.
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+My first design concept was to create a flower/plant that grew when a light turned on and a watering can was moved towards it. I would create this with a light sensor catching the light going to a motor to lift the flower out of a hole. As well as a radio embedded in the watering can to lift the flower or make it spread out more. 
 
 ### Design concept 2 ###
-*Put details here.*
+My second design invloved a flower bed and the 3 stages of a plant growing; seeds, seedlings and flowers. Light sensors over certain areas would trigger the different stages of growth to appear from the flower bed, showing the beauty in each stage of growth. This could be done in a smaller scale to compensate for the lack of resources. 
 
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+My final design is to create a flower that blooms with light. It involves a light sensor recieving light which triggers a motor to push open the flower. My design would be simple and beautiful to reflect the simplicity of nature. 
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
 ![Image](missingimage.png)
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
+I started my experimentation with making the coding. To let the phototransistor recieve the light to go through the micro bit and trigger a servo motor move to push open the flower. So I started with combining the code from my previous project, the self waterer plant and the phototransistor experiment in the book. I took the end of the code of the self plant waterer, where it makes the motor move and the start of the code using the transistor to recieve the light. 
+I wasn't sure whether it would work at the begining, but I started to experiment with this. 
 
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+![Image](missingimage.png)
+![Image](missingimage.png)
+![Image](missingimage.png)
+
+Making small adjustments, I figured out that the code worked through the microbit, using the inbuilt light sensor rather than the one I attached it to. I managed to find the right timing for the motor to spin, fast when the light was first recieved and a large gap before it moved back so the flower bloomed for at least 10 seconds. I also found out through my different tests that it didn't work as well when it was connected to my computer, but better when I connected it to the battery.
+
+I added a moon when there wasn't any light present and a sun when there was, so I could see what was happening. 
 
 ![Image](missingimage.png)
 
+By test no.6, I realised that the smallest amount of light I had for the motor to move wasn't right, it was too low. So I played around with it, as I didn't fully understand how it made a different. I found that 200 was too low, after changing it to 500, I found it was too high. 300 was the golden number, It worked with my torch on my phone as well as some bright house lights. 
+
+![Image](missingimage.png)
+
+At this point, I was close to finally cracking the problem, I still hadn't worked out if it could work with my phototransistor yet, it was working when I made contact with pin 1 though. I connected my light sensor and played around with the positioning of the aligator clips on the pin and the microbit. I figured out that it worked when the shorter side of the pin was connected to pin 1 and the other to 0. 
+My circuit had finally worked and operated swiftly. The phototransistor recieved the light from my torch then successfully madde the motor move 1 sec after then stay at that angle for 10 seconds then move back to its original position.
+
+![Image](missingimage.png)
+
+My next objective was to look into the design of the flower. I found a video of someone making an origami flower, similar to a cocktail umbrella. I saw that this design could work for mine, with the motor pulling the bottom tab that pulled the petals of the flower, therefore making it bloom. 
+
+![Image](missingimage.png)
+
+I then created a protoype of it to make sure I understood how it could work with my flower. 
+
+![Image](missingimage.png)
+
+It worked theoretically, I just had to find a way of making it work practically, connecting the bottom tab to the servo motor. I saw a flaw with the fragility of the paper compared with the rapid movement of the motor an considered using a stronger material so it could move with the motor and withstand the force that it gave.
+
+I then looked to other designs to see their processes, I saw a project that was very similar to mine and after some feedback from others, I decided to chnage my design and interaction of my project, but leaving the coding, using it in a different way.
+
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+I started my deign process with looking at what interested me so that it could inspire me throughout the project. I had been using plants in my previus project and I had seen many other projects using plants, I thought it would be interesting to see what i could learn from plants too. 
+
+From there I came up with a few ideas of how I could convey my design intent, how I could get people to understand what I am trying to tell them, as well as create a experience through interaction. I had a couple yet there was one that I was drawn to more than the rest. 
+
+I then started to think about how I could develop this idea, practically. How I could fabricate and code it. After figuring out the proper code and started thinking through the frabrication, I found that I needed to change my design and the way I was presenting it. i could still use my code though.
+
+This required me to go back to defining my challenge, seeing the different ways I could change it, as well as to still suit my design intent. 
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+My next step is to think creatively about how I could present my project, to make a list of any ideas that I have or can do with what I have done already, maybe see the other ideas that I had previously. Then to start to think of ways I could practically make it work as a simple prototype.
