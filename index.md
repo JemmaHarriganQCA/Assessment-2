@@ -105,9 +105,11 @@ My final design is to create a flower that blooms with light. It involves a ligh
 I started my experimentation with making the coding. To let the phototransistor recieve the light to go through the micro bit and trigger a servo motor move to push open the flower. So I started with combining the code from my previous project, the self waterer plant and the phototransistor experiment in the book. I took the end of the code of the self plant waterer, where it makes the motor move and the start of the code using the transistor to recieve the light. 
 I wasn't sure whether it would work at the begining, but I started to experiment with this. 
 
-![Image](missingimage.png)
-![Image](missingimage.png)
-![Image](missingimage.png)
+![using a light sensor and analog inputs](https://user-images.githubusercontent.com/62362612/79946047-8a721980-84b2-11ea-9d47-cb14cbadd84d.png)
+
+![Plant waterer code](https://user-images.githubusercontent.com/62362612/79946064-92ca5480-84b2-11ea-894f-c39bfbaf31ba.png)
+
+
 
 Making small adjustments, I figured out that the code worked through the microbit, using the inbuilt light sensor rather than the one I attached it to. I managed to find the right timing for the motor to spin, fast when the light was first recieved and a large gap before it moved back so the flower bloomed for at least 10 seconds. I also found out through my different tests that it didn't work as well when it was connected to my computer, but better when I connected it to the battery.
 
@@ -115,9 +117,9 @@ I added a moon when there wasn't any light present and a sun when there was, so 
 
 By test no.6, I realised that the smallest amount of light I had for the motor to move wasn't right, it was too low. So I played around with it, as I didn't fully understand how it made a different. I found that 200 was too low, after changing it to 500, I found it was too high. 300 was the golden number, It worked with my torch on my phone as well as some bright house lights. 
 
-![Image](missingimage.png)
-
 At this point, I was close to finally cracking the problem, I still hadn't worked out if it could work with my phototransistor yet, it was working when I made contact with pin 1 though. I connected my light sensor and played around with the positioning of the aligator clips on the pin and the microbit. I figured out that it worked when the shorter side of the pin was connected to pin 1 and the other to 0. 
+
+![bloom test 6 (final)](https://user-images.githubusercontent.com/62362612/79946108-a5dd2480-84b2-11ea-8c44-683969b7a052.png)
 
 My circuit had finally worked and operated swiftly. The phototransistor recieved the light from my torch then successfully madde the motor move 1 sec after then stay at that angle for 10 seconds then move back to its original position.
 
