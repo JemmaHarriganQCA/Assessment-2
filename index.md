@@ -8,16 +8,13 @@ When you have completed the template, submit the link to the GitHub Pages site f
 Slow Growth
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
 Blooming Paper Art
 
 https://www.haufig.com/blooming-paper-art-interactive-installation/
 
-
 ![blooming paper art](https://user-images.githubusercontent.com/62362612/79829460-7d87f400-83e6-11ea-946d-33ff0b4b9ce6.png)
-
 
 This project is related to mine because of the idea of blooming and they essentially use similiar processes, using motion to trigger a blooming flower through motors. I love the mix of beautiful art and mechanics in this project.
 
@@ -40,39 +37,31 @@ https://www.youtube.com/watch?v=XnYCaprdqTY
 This project is related to mine because this project they are inspired by nature, conveying it through technology and created something beautiful as a result.
 
 ### Related project 4 ###
-*Insert name of project*
+Interactive shade flowers
 
-*Insert URL to project*
+https://www.thisiscolossal.com/2015/11/interactive-flowers/
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because they are using nature to provide something for the public. I like the way they use it big scale and it serves a purpose, not just looking pretty.
 
 ### Related project 5 ###
-*Insert name of project*
+Interactive RGB led module
 
-*Insert URL to project*
+https://www.youtube.com/watch?time_continue=66&v=r1UEOH6pSV8&feature=emb_logo
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because they use phototransistors to detect reflected light which then triggers the lights. I like this project because it is a fun way to showing it through coloured lights.
 
 ### Related project 6 ###
-*Insert name of project*
+Interactive cylindrical cube
 
-*Insert URL to project*
+https://www.youtube.com/watch?time_continue=22&v=DPDbRTkw2Hg&feature=emb_logo
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
-
-
-## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
-
-### *Brief resource name/description* ###
-
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+This project is related to mine because Phototransistors are used with infared led's to sense someones touch and light up where they are present, I also like the use of it as a flower pot.
 
 ## Conceptual progress ##
 
