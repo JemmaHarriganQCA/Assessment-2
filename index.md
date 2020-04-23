@@ -41,7 +41,7 @@ Interactive shade flowers
 
 https://www.thisiscolossal.com/2015/11/interactive-flowers/
 
-![Image](missingimage.png)
+![interactive shade flowers](https://user-images.githubusercontent.com/62362612/80050719-c2806780-8559-11ea-8697-613c147f208b.png)
 
 This project is related to mine because they are using nature to provide something for the public. I like the way they use it big scale and it serves a purpose, not just looking pretty.
 
@@ -50,7 +50,7 @@ Interactive RGB led module
 
 https://www.youtube.com/watch?time_continue=66&v=r1UEOH6pSV8&feature=emb_logo
 
-![Image](missingimage.png)
+![RGB led](https://user-images.githubusercontent.com/62362612/80050654-97961380-8559-11ea-91c9-db14815bd8a6.png)
 
 This project is related to mine because they use phototransistors to detect reflected light which then triggers the lights. I like this project because it is a fun way to showing it through coloured lights.
 
@@ -59,7 +59,7 @@ Interactive cylindrical cube
 
 https://www.youtube.com/watch?time_continue=22&v=DPDbRTkw2Hg&feature=emb_logo
 
-![Image](missingimage.png)
+![cylindrical cube](https://user-images.githubusercontent.com/62362612/80050758-dd52dc00-8559-11ea-82b3-b24b5a8e712f.png)
 
 This project is related to mine because Phototransistors are used with infared led's to sense someones touch and light up where they are present, I also like the use of it as a flower pot.
 
